@@ -86,6 +86,11 @@ export default [
         path: '/mzlui/switch'
       },
       {
+        'title-cn': 'Slider 滑块',
+        'title-en': 'Slider',
+        path: '/mzlui/slider'
+      },
+      {
         'title-cn': 'OptFile 文件选择',
         'title-en': 'OptFile',
         path: '/mzlui/optfile'

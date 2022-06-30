@@ -47,7 +47,7 @@
 
 <!-- js -->
 <script setup>
-import { reactive, ref } from "vue";
+import { reactive } from "vue";
 const state = reactive({
   options: {
     fileds: [

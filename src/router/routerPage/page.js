@@ -178,6 +178,11 @@ export default [
         path: 'divider',
         name: 'divider 分割线',
         component: () => import('/packages/divider/doc/doc.md')
+      },
+      {
+        path: 'slider',
+        name: 'slider 滑块',
+        component: () => import('/packages/slider/doc/doc.md')
       }
     ]
   }
